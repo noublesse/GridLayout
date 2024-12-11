@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JenisLaptop</string>
+    <string name="jlp1">acer predator</string>
+    <string name="jlp2">msi</string>
+    <string name="jlp3">zyrex</string>
+    <string name="jlp4">dell</string>
+    <string name="jlp5">hp pavilon</string>
+    <string name="jlp6">razer slim</string>
+    <string name="jlp7">rog strix</string>
+    <string name="jlp8">asus vivobox</string>
+    <string name="jlp9">asus vivobox lite</string>
+    <string name="jlp10">hp lipat</string>
+    <string name="jlp11">lenovo legion</string>
+    <string name="jlp12">hp victus</string>
+    <string name="jlp13">msi gaming</string>
+    <string name="jlp14">acer nitro</string>
+    <string name="jlp15">acer caleron</string>
+    <string name="jlp16">razer super gaming</string>
+</resources>
